@@ -1,0 +1,8 @@
+*.out
+*.map
+*.obj
+*.d
+*.mk
+*.opt
+makefile
+*.xml
