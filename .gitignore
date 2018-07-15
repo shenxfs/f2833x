@@ -6,3 +6,5 @@
 *.opt
 makefile
 *.xml
+.DS_Store
+._*
